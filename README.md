@@ -1,8 +1,5 @@
 # Portfolio Rails Application
 
-[![CircleCI](https://circleci.com/gh/tsurupin/portfolio.svg?style=svg)](https://circleci.com/gh/tsurupin/portfolio)
-[![Code Climate](https://codeclimate.com/github/tsurupin/portfolio/badges/gpa.svg)](https://codeclimate.com/github/tsurupin/portfolio)
-
 A modern portfolio and blog management system built with Ruby on Rails API backend and React/Redux frontend.
 
 ## 🚀 Features
